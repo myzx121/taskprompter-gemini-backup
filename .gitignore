@@ -1,0 +1,4 @@
+backup_gemini_20261029/phase2_expA/
+**/__pycache__/
+*.pt
+*.pt.zst
