@@ -1,0 +1,20 @@
+{
+  "step0_film_lora_max_abs": 0.0,
+  "step0_calibration_max_abs": 0.0,
+  "zero_lora_B_max_abs": 0.0,
+  "trainable_parameters": 1924,
+  "gradient_sums": {
+    "film": 6.0847964050481096e-05,
+    "lora_A": 0.0,
+    "lora_B": 3.3917956898221746e-05,
+    "calibration": 8.657835960388184,
+    "gate": 8.6578369140625
+  },
+  "prior_weights": {
+    "semseg": 0.5,
+    "depth": 0.8175744414329529,
+    "normals": 0.8175744414329529,
+    "edge": 0.5
+  },
+  "passed": true
+}
